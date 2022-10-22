@@ -1,0 +1,20 @@
+h1 {
+    color: purple;
+}
+
+#header1 {
+    color: green;
+}
+
+p {
+    text-decoration: underline red solid 5px;
+}
+
+/* Or
+p {
+    text-decoration-line: underline;
+    text-decoration-color: red;
+    text-decoration-style: solid;
+    text-decoration-thickness: 5px;
+}
+*/
